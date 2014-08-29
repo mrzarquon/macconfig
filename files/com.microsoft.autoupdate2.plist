@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Applications</key>
+  <dict>
+    <key>/Applications/Microsoft Office 2011/Microsoft Excel.app</key>
+    <dict>
+      <key>Application ID</key>
+      <string>MSOf14</string>
+      <key>LCID</key>
+      <integer>1033</integer>
+    </dict>
+    <key>/Applications/Microsoft Office 2011/Microsoft Outlook.app</key>
+    <dict>
+      <key>Application ID</key>
+      <string>MSOf14</string>
+      <key>LCID</key>
+      <integer>1033</integer>
+    </dict>
+    <key>/Applications/Microsoft Office 2011/Microsoft PowerPoint.app</key>
+    <dict>
+      <key>Application ID</key>
+      <string>MSOf14</string>
+      <key>LCID</key>
+      <integer>1033</integer>
+    </dict>
+    <key>/Applications/Microsoft Office 2011/Microsoft Word.app</key>
+    <dict>
+      <key>Application ID</key>
+      <string>MSOf14</string>
+      <key>LCID</key>
+      <integer>1033</integer>
+    </dict>
+    <key>/Library/Application Support/Microsoft/MAU2.0/Microsoft AutoUpdate.app</key>
+    <dict>
+      <key>Application ID</key>
+      <string>MSau02</string>
+      <key>LCID</key>
+      <integer>1033</integer>
+    </dict>
+    <key>/Library/Application Support/Microsoft/MERP2.0/Microsoft Error Reporting.app</key>
+    <dict>
+      <key>Application ID</key>
+      <string>Merp2</string>
+      <key>LCID</key>
+      <integer>1033</integer>
+    </dict>
+  </dict>
+  <key>HowToCheck</key>
+  <string>Manual</string>
+  <key>LastUpdate</key>
+  <date>2001-01-01T00:00:00Z</date>
+</dict>
+</plist>
