@@ -7,18 +7,11 @@ class macconfig::security {
     },
   }
 
-
-  package { 'CFPropertyList':
-    ensure   => present,
-    provider => 'pe_gem',
-  }
-
   mobileconfig { 'puppet.security':
     ensure       => present,
     content      => process_mobileconfig_params($content),
     displayname  => 'Managed Mac: Security',
     description  => 'Security configuration. Installed by Puppet.',
     organization => 'puppetlabs',
-    require => Package['CFPropertyList'],
   }
 }
